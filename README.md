@@ -4,7 +4,7 @@
 
 
 ## How to setup
-Literally just launch macro.py, if it doesn't launch make sure you have python installed, if it's still crashing please contact me on discord @aspectofthemeows
+Literally just launch macro.py, if it doesn't launch make sure you have python installed.
 <div align="center">
 
 
